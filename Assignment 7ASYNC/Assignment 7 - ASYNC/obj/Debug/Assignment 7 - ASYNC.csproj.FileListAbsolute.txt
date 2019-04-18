@@ -1,0 +1,73 @@
+F:\VIA - Horsens\DNP2\Exercise 19\Assignment 7 - ASYNC\bin\Debug\Assignment 7 - ASYNC.exe.config
+F:\VIA - Horsens\DNP2\Exercise 19\Assignment 7 - ASYNC\bin\Debug\Assignment 7 - ASYNC.exe
+F:\VIA - Horsens\DNP2\Exercise 19\Assignment 7 - ASYNC\bin\Debug\Assignment 7 - ASYNC.pdb
+F:\VIA - Horsens\DNP2\Exercise 19\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC.csprojAssemblyReference.cache
+F:\VIA - Horsens\DNP2\Exercise 19\Assignment 7 - ASYNC\obj\Debug\MainWindow.g.cs
+F:\VIA - Horsens\DNP2\Exercise 19\Assignment 7 - ASYNC\obj\Debug\App.g.cs
+F:\VIA - Horsens\DNP2\Exercise 19\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC_MarkupCompile.cache
+F:\VIA - Horsens\DNP2\Exercise 19\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC_MarkupCompile.lref
+F:\VIA - Horsens\DNP2\Exercise 19\Assignment 7 - ASYNC\obj\Debug\MainWindow.baml
+F:\VIA - Horsens\DNP2\Exercise 19\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC.g.resources
+F:\VIA - Horsens\DNP2\Exercise 19\Assignment 7 - ASYNC\obj\Debug\Assignment_7___ASYNC.Properties.Resources.resources
+F:\VIA - Horsens\DNP2\Exercise 19\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC.csproj.GenerateResource.cache
+F:\VIA - Horsens\DNP2\Exercise 19\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC.csproj.CoreCompileInputs.cache
+F:\VIA - Horsens\DNP2\Exercise 19\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC.exe
+F:\VIA - Horsens\DNP2\Exercise 19\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC.pdb
+F:\VIA - Horsens\DNP2\Assignment 7\Assignment 7 - ASYNC\bin\Debug\Assignment 7 - ASYNC.exe.config
+F:\VIA - Horsens\DNP2\Assignment 7\Assignment 7 - ASYNC\bin\Debug\Assignment 7 - ASYNC.exe
+F:\VIA - Horsens\DNP2\Assignment 7\Assignment 7 - ASYNC\bin\Debug\Assignment 7 - ASYNC.pdb
+F:\VIA - Horsens\DNP2\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC.csprojAssemblyReference.cache
+F:\VIA - Horsens\DNP2\Assignment 7\Assignment 7 - ASYNC\obj\Debug\MainWindow.g.cs
+F:\VIA - Horsens\DNP2\Assignment 7\Assignment 7 - ASYNC\obj\Debug\App.g.cs
+F:\VIA - Horsens\DNP2\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC_MarkupCompile.cache
+F:\VIA - Horsens\DNP2\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC_MarkupCompile.lref
+F:\VIA - Horsens\DNP2\Assignment 7\Assignment 7 - ASYNC\obj\Debug\MainWindow.baml
+F:\VIA - Horsens\DNP2\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC.g.resources
+F:\VIA - Horsens\DNP2\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment_7___ASYNC.Properties.Resources.resources
+F:\VIA - Horsens\DNP2\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC.csproj.GenerateResource.cache
+F:\VIA - Horsens\DNP2\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC.csproj.CoreCompileInputs.cache
+F:\VIA - Horsens\DNP2\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC.exe
+F:\VIA - Horsens\DNP2\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC.pdb
+C:\Users\Emil\source\repos\Assignment 7\Assignment 7 - ASYNC\bin\Debug\Assignment 7 - ASYNC.exe.config
+C:\Users\Emil\source\repos\Assignment 7\Assignment 7 - ASYNC\bin\Debug\Assignment 7 - ASYNC.exe
+C:\Users\Emil\source\repos\Assignment 7\Assignment 7 - ASYNC\bin\Debug\Assignment 7 - ASYNC.pdb
+C:\Users\Emil\source\repos\Assignment 7\Assignment 7 - ASYNC\obj\Debug\MainWindow.g.cs
+C:\Users\Emil\source\repos\Assignment 7\Assignment 7 - ASYNC\obj\Debug\App.g.cs
+C:\Users\Emil\source\repos\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC_MarkupCompile.cache
+C:\Users\Emil\source\repos\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC_MarkupCompile.lref
+C:\Users\Emil\source\repos\Assignment 7\Assignment 7 - ASYNC\obj\Debug\MainWindow.baml
+C:\Users\Emil\source\repos\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC.g.resources
+C:\Users\Emil\source\repos\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment_7___ASYNC.Properties.Resources.resources
+C:\Users\Emil\source\repos\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC.csproj.GenerateResource.cache
+C:\Users\Emil\source\repos\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC.exe
+C:\Users\Emil\source\repos\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC.pdb
+F:\VIA\DNP2\Assignment 7\Assignment 7 - ASYNC\bin\Debug\Assignment 7 - ASYNC.exe.config
+F:\VIA\DNP2\Assignment 7\Assignment 7 - ASYNC\bin\Debug\Assignment 7 - ASYNC.exe
+F:\VIA\DNP2\Assignment 7\Assignment 7 - ASYNC\bin\Debug\Assignment 7 - ASYNC.pdb
+F:\VIA\DNP2\Assignment 7\Assignment 7 - ASYNC\obj\Debug\MainWindow.g.cs
+F:\VIA\DNP2\Assignment 7\Assignment 7 - ASYNC\obj\Debug\App.g.cs
+F:\VIA\DNP2\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC_MarkupCompile.cache
+F:\VIA\DNP2\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC_MarkupCompile.lref
+F:\VIA\DNP2\Assignment 7\Assignment 7 - ASYNC\obj\Debug\MainWindow.baml
+F:\VIA\DNP2\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC.g.resources
+F:\VIA\DNP2\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment_7___ASYNC.Properties.Resources.resources
+F:\VIA\DNP2\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC.csproj.GenerateResource.Cache
+F:\VIA\DNP2\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC.csproj.CoreCompileInputs.cache
+F:\VIA\DNP2\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC.exe
+F:\VIA\DNP2\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC.pdb
+D:\VIA\DNP2\Assignments\Assignment 7\Assignment 7 - ASYNC\bin\Debug\Assignment 7 - ASYNC.exe.config
+D:\VIA\DNP2\Assignments\Assignment 7\Assignment 7 - ASYNC\bin\Debug\Assignment 7 - ASYNC.exe
+D:\VIA\DNP2\Assignments\Assignment 7\Assignment 7 - ASYNC\bin\Debug\Assignment 7 - ASYNC.pdb
+D:\VIA\DNP2\Assignments\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC.csprojAssemblyReference.cache
+D:\VIA\DNP2\Assignments\Assignment 7\Assignment 7 - ASYNC\obj\Debug\MainWindow.g.cs
+D:\VIA\DNP2\Assignments\Assignment 7\Assignment 7 - ASYNC\obj\Debug\App.g.cs
+D:\VIA\DNP2\Assignments\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC_MarkupCompile.cache
+D:\VIA\DNP2\Assignments\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC_MarkupCompile.lref
+D:\VIA\DNP2\Assignments\Assignment 7\Assignment 7 - ASYNC\obj\Debug\MainWindow.baml
+D:\VIA\DNP2\Assignments\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC.g.resources
+D:\VIA\DNP2\Assignments\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment_7___ASYNC.Properties.Resources.resources
+D:\VIA\DNP2\Assignments\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC.csproj.GenerateResource.cache
+D:\VIA\DNP2\Assignments\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC.csproj.CoreCompileInputs.cache
+D:\VIA\DNP2\Assignments\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC.exe
+D:\VIA\DNP2\Assignments\Assignment 7\Assignment 7 - ASYNC\obj\Debug\Assignment 7 - ASYNC.pdb

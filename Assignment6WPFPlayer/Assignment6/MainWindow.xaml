@@ -1,0 +1,63 @@
+﻿<Window x:Class="Assignment6.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Window1" Height="305" Width="352.105">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="160" />
+            <RowDefinition Height="20" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="45" />
+        </Grid.RowDefinitions>
+        <ToolBar Grid.Row="3"  Name="toolBar1" Grid.RowSpan="2" >
+            <Button x:Name="Open" Click="Open_Click">
+                <Image Source="/img/open_folder.png"/>
+            </Button>
+            <Button x:Name="Play" Click="Play_Click">
+                <Image Source="/img/play.png "/>
+            </Button>
+            <Button x:Name="Pause" RenderTransformOrigin="0.5,0.5" Click="Pause_Click">
+                <Image Source="/img/pause-circle-outline-128.png"/>
+                <Button.RenderTransform>
+                    <RotateTransform x:Name="MyAnimatedTransform" Angle="0" />
+                </Button.RenderTransform>
+                <Button.Triggers>
+                    <EventTrigger RoutedEvent="Button.Click">
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation
+                Storyboard.TargetName="MyAnimatedTransform"
+                Storyboard.TargetProperty="(RotateTransform.Angle)"
+                From="0.0" To="360" Duration="0:0:1" />
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger>
+                </Button.Triggers>
+            </Button>
+            <Button x:Name="Stop" Click="Stop_Click">
+                <Image Source="/img/stop.png" />
+            </Button>
+        </ToolBar>
+        <MediaElement x:Name="MediaElement1" Grid.Row="0" MediaElement.MediaFailed="MediaElement1_MediaFailed" Height="160" VerticalAlignment="Top" Width="352.105" LoadedBehavior="Manual"/>
+        <Label x:Name="Name" HorizontalAlignment="Left"  Width="345" Height="20" RenderTransformOrigin="0.725,3.163" Grid.Row="1" FontSize="10" FontFamily="Arial"/>
+        <StatusBar Grid.Row="2">
+            <StatusBar.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="Auto" />
+                        </Grid.ColumnDefinitions>
+                    </Grid>
+                </ItemsPanelTemplate>
+            </StatusBar.ItemsPanel>
+            <StatusBarItem Grid.Column="0">
+                <TextBlock Name="lblProgressStatus">00:00:00</TextBlock>
+            </StatusBarItem>
+            <StatusBarItem Grid.Column="1" HorizontalContentAlignment="Stretch" Width="290">
+                <Slider Name="sliProgress" Thumb.DragStarted="sliProgress_DragStarted"  Thumb.DragCompleted="sliProgress_DragCompleted" ValueChanged="sliProgress_ValueChanged"  />
+            </StatusBarItem>
+        </StatusBar>
+    </Grid>
+</Window>

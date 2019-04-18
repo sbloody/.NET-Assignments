@@ -1,0 +1,13 @@
+F:\VIA\DNP2\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+F:\VIA\DNP2\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+F:\VIA\DNP2\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+F:\VIA\DNP2\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+F:\VIA\DNP2\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+F:\VIA\DNP2\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
+D:\VIA\DNP2\Assignments\Assignment4LINQ\Assignment4\bin\Debug\Assignment4.exe.config
+D:\VIA\DNP2\Assignments\Assignment4LINQ\Assignment4\bin\Debug\Assignment4.exe
+D:\VIA\DNP2\Assignments\Assignment4LINQ\Assignment4\bin\Debug\Assignment4.pdb
+D:\VIA\DNP2\Assignments\Assignment4LINQ\Assignment4\obj\Debug\Assignment4.csprojAssemblyReference.cache
+D:\VIA\DNP2\Assignments\Assignment4LINQ\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+D:\VIA\DNP2\Assignments\Assignment4LINQ\Assignment4\obj\Debug\Assignment4.exe
+D:\VIA\DNP2\Assignments\Assignment4LINQ\Assignment4\obj\Debug\Assignment4.pdb

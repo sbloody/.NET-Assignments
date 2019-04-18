@@ -1,0 +1,110 @@
+E:\Dropbox\ICT\Sem IV\DNP\Visual Studio Workspace\Assignment5\Assignment5\bin\Debug\Assignment5.exe.config
+E:\Dropbox\ICT\Sem IV\DNP\Visual Studio Workspace\Assignment5\Assignment5\obj\Debug\Assignment5.csprojResolveAssemblyReference.cache
+E:\Dropbox\ICT\Sem IV\DNP\Visual Studio Workspace\Assignment5\Assignment5\obj\Debug\MainWindow.g.cs
+E:\Dropbox\ICT\Sem IV\DNP\Visual Studio Workspace\Assignment5\Assignment5\obj\Debug\App.g.cs
+E:\Dropbox\ICT\Sem IV\DNP\Visual Studio Workspace\Assignment5\Assignment5\obj\Debug\Assignment5_MarkupCompile.cache
+E:\Dropbox\ICT\Sem IV\DNP\Visual Studio Workspace\Assignment5\Assignment5\obj\Debug\Assignment5_MarkupCompile.lref
+E:\Dropbox\ICT\Sem IV\DNP\Visual Studio Workspace\Assignment5\Assignment5\bin\Debug\Assignment5.exe
+E:\Dropbox\ICT\Sem IV\DNP\Visual Studio Workspace\Assignment5\Assignment5\bin\Debug\Assignment5.pdb
+E:\Dropbox\ICT\Sem IV\DNP\Visual Studio Workspace\Assignment5\Assignment5\obj\Debug\MainWindow.baml
+E:\Dropbox\ICT\Sem IV\DNP\Visual Studio Workspace\Assignment5\Assignment5\obj\Debug\Assignment5.g.resources
+E:\Dropbox\ICT\Sem IV\DNP\Visual Studio Workspace\Assignment5\Assignment5\obj\Debug\Assignment5.Properties.Resources.resources
+E:\Dropbox\ICT\Sem IV\DNP\Visual Studio Workspace\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.GenerateResource.Cache
+E:\Dropbox\ICT\Sem IV\DNP\Visual Studio Workspace\Assignment5\Assignment5\obj\Debug\Assignment5.exe
+E:\Dropbox\ICT\Sem IV\DNP\Visual Studio Workspace\Assignment5\Assignment5\obj\Debug\Assignment5.pdb
+e:\Dropbox\ICT\Sem IV\DNP\Visual Studio Workspace\Assignment5\Assignment5\obj\Debug\NewMediaItem.g.cs
+e:\Dropbox\ICT\Sem IV\DNP\Visual Studio Workspace\Assignment5\Assignment5\obj\Debug\NewMediaItem.baml
+e:\Dropbox\ICT\Sem IV\DNP\Visual Studio Workspace\Assignment5\Assignment5\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\isidore\Desktop\DNP2Assignments-master\Assignment5\Assignment5\bin\Debug\Assignment5.exe.config
+C:\Users\isidore\Desktop\DNP2Assignments-master\Assignment5\Assignment5\bin\Debug\Assignment5.exe
+C:\Users\isidore\Desktop\DNP2Assignments-master\Assignment5\Assignment5\bin\Debug\Assignment5.pdb
+C:\Users\isidore\Desktop\DNP2Assignments-master\Assignment5\Assignment5\obj\Debug\Assignment5.csprojResolveAssemblyReference.cache
+C:\Users\isidore\Desktop\DNP2Assignments-master\Assignment5\Assignment5\obj\Debug\MainWindow.g.cs
+C:\Users\isidore\Desktop\DNP2Assignments-master\Assignment5\Assignment5\obj\Debug\NewMediaItem.g.cs
+C:\Users\isidore\Desktop\DNP2Assignments-master\Assignment5\Assignment5\obj\Debug\App.g.cs
+C:\Users\isidore\Desktop\DNP2Assignments-master\Assignment5\Assignment5\obj\Debug\Assignment5_MarkupCompile.cache
+C:\Users\isidore\Desktop\DNP2Assignments-master\Assignment5\Assignment5\obj\Debug\Assignment5_MarkupCompile.lref
+C:\Users\isidore\Desktop\DNP2Assignments-master\Assignment5\Assignment5\obj\Debug\MainWindow.baml
+C:\Users\isidore\Desktop\DNP2Assignments-master\Assignment5\Assignment5\obj\Debug\NewMediaItem.baml
+C:\Users\isidore\Desktop\DNP2Assignments-master\Assignment5\Assignment5\obj\Debug\Assignment5.g.resources
+C:\Users\isidore\Desktop\DNP2Assignments-master\Assignment5\Assignment5\obj\Debug\Assignment5.Properties.Resources.resources
+C:\Users\isidore\Desktop\DNP2Assignments-master\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.GenerateResource.Cache
+C:\Users\isidore\Desktop\DNP2Assignments-master\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.CoreCompileInputs.cache
+C:\Users\isidore\Desktop\DNP2Assignments-master\Assignment5\Assignment5\obj\Debug\Assignment5.exe
+C:\Users\isidore\Desktop\DNP2Assignments-master\Assignment5\Assignment5\obj\Debug\Assignment5.pdb
+C:\Users\isidore\Desktop\DNP2Assignments w changes\Assignment5\Assignment5\bin\Debug\Assignment5.exe.config
+C:\Users\isidore\Desktop\DNP2Assignments w changes\Assignment5\Assignment5\bin\Debug\Assignment5.exe
+C:\Users\isidore\Desktop\DNP2Assignments w changes\Assignment5\Assignment5\bin\Debug\Assignment5.pdb
+C:\Users\isidore\Desktop\DNP2Assignments w changes\Assignment5\Assignment5\obj\Debug\Assignment5.csprojResolveAssemblyReference.cache
+C:\Users\isidore\Desktop\DNP2Assignments w changes\Assignment5\Assignment5\obj\Debug\MainWindow.g.cs
+C:\Users\isidore\Desktop\DNP2Assignments w changes\Assignment5\Assignment5\obj\Debug\NewMediaItem.g.cs
+C:\Users\isidore\Desktop\DNP2Assignments w changes\Assignment5\Assignment5\obj\Debug\App.g.cs
+C:\Users\isidore\Desktop\DNP2Assignments w changes\Assignment5\Assignment5\obj\Debug\Assignment5_MarkupCompile.cache
+C:\Users\isidore\Desktop\DNP2Assignments w changes\Assignment5\Assignment5\obj\Debug\Assignment5_MarkupCompile.lref
+C:\Users\isidore\Desktop\DNP2Assignments w changes\Assignment5\Assignment5\obj\Debug\MainWindow.baml
+C:\Users\isidore\Desktop\DNP2Assignments w changes\Assignment5\Assignment5\obj\Debug\NewMediaItem.baml
+C:\Users\isidore\Desktop\DNP2Assignments w changes\Assignment5\Assignment5\obj\Debug\Assignment5.g.resources
+C:\Users\isidore\Desktop\DNP2Assignments w changes\Assignment5\Assignment5\obj\Debug\Assignment5.Properties.Resources.resources
+C:\Users\isidore\Desktop\DNP2Assignments w changes\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.GenerateResource.Cache
+C:\Users\isidore\Desktop\DNP2Assignments w changes\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.CoreCompileInputs.cache
+C:\Users\isidore\Desktop\DNP2Assignments w changes\Assignment5\Assignment5\obj\Debug\Assignment5.exe
+C:\Users\isidore\Desktop\DNP2Assignments w changes\Assignment5\Assignment5\obj\Debug\Assignment5.pdb
+D:\UNI\VIa\SEMESTUR 6\DNP\Assignment5\Assignment5\Assignment5\obj\Debug\Assignment5.csprojAssemblyReference.cache
+D:\UNI\VIa\SEMESTUR 6\DNP\Assignment5\Assignment5\Assignment5\obj\Debug\MainWindow.g.cs
+D:\UNI\VIa\SEMESTUR 6\DNP\Assignment5\Assignment5\Assignment5\obj\Debug\NewMediaItem.g.cs
+D:\UNI\VIa\SEMESTUR 6\DNP\Assignment5\Assignment5\Assignment5\obj\Debug\App.g.cs
+D:\UNI\VIa\SEMESTUR 6\DNP\Assignment5\Assignment5\Assignment5\obj\Debug\Assignment5_MarkupCompile.cache
+D:\UNI\VIa\SEMESTUR 6\DNP\Assignment5\Assignment5\Assignment5\obj\Debug\Assignment5_MarkupCompile.lref
+D:\UNI\VIa\SEMESTUR 6\DNP\Assignment5\Assignment5\Assignment5\obj\Debug\Assignment5.exe
+D:\UNI\VIa\SEMESTUR 6\DNP\Assignment5\Assignment5\Assignment5\obj\Debug\Assignment5.pdb
+F:\VIA\DNP2\Assignment5\Assignment5\obj\Debug\Assignment5.csprojResolveAssemblyReference.cache
+F:\VIA\DNP2\Assignment5\Assignment5\obj\Debug\MainWindow.g.cs
+F:\VIA\DNP2\Assignment5\Assignment5\obj\Debug\NewMediaItem.g.cs
+F:\VIA\DNP2\Assignment5\Assignment5\obj\Debug\App.g.cs
+F:\VIA\DNP2\Assignment5\Assignment5\obj\Debug\Assignment5_MarkupCompile.cache
+F:\VIA\DNP2\Assignment5\Assignment5\obj\Debug\Assignment5_MarkupCompile.lref
+F:\VIA\DNP2\Assignment5\Assignment5\obj\Debug\Assignment5.exe
+F:\VIA\DNP2\Assignment5\Assignment5\obj\Debug\Assignment5.pdb
+F:\VIA\DNP2\Assignment5\Assignment5\bin\Debug\Assignment5.exe.config
+F:\VIA\DNP2\Assignment5\Assignment5\bin\Debug\Assignment5.exe
+F:\VIA\DNP2\Assignment5\Assignment5\bin\Debug\Assignment5.pdb
+F:\VIA\DNP2\Assignment5\Assignment5\obj\Debug\MainWindow.baml
+F:\VIA\DNP2\Assignment5\Assignment5\obj\Debug\NewMediaItem.baml
+F:\VIA\DNP2\Assignment5\Assignment5\obj\Debug\Assignment5.g.resources
+F:\VIA\DNP2\Assignment5\Assignment5\obj\Debug\Assignment5.Properties.Resources.resources
+F:\VIA\DNP2\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.GenerateResource.Cache
+F:\VIA\DNP2\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.CoreCompileInputs.cache
+D:\VIA\DNP2\Assignments\Assignment5\Assignment5\bin\Debug\Assignment5.exe.config
+D:\VIA\DNP2\Assignments\Assignment5\Assignment5\bin\Debug\Assignment5.exe
+D:\VIA\DNP2\Assignments\Assignment5\Assignment5\bin\Debug\Assignment5.pdb
+D:\VIA\DNP2\Assignments\Assignment5\Assignment5\obj\Debug\Assignment5.csprojAssemblyReference.cache
+D:\VIA\DNP2\Assignments\Assignment5\Assignment5\obj\Debug\MainWindow.g.cs
+D:\VIA\DNP2\Assignments\Assignment5\Assignment5\obj\Debug\NewMediaItem.g.cs
+D:\VIA\DNP2\Assignments\Assignment5\Assignment5\obj\Debug\App.g.cs
+D:\VIA\DNP2\Assignments\Assignment5\Assignment5\obj\Debug\Assignment5_MarkupCompile.cache
+D:\VIA\DNP2\Assignments\Assignment5\Assignment5\obj\Debug\Assignment5_MarkupCompile.lref
+D:\VIA\DNP2\Assignments\Assignment5\Assignment5\obj\Debug\MainWindow.baml
+D:\VIA\DNP2\Assignments\Assignment5\Assignment5\obj\Debug\NewMediaItem.baml
+D:\VIA\DNP2\Assignments\Assignment5\Assignment5\obj\Debug\Assignment5.g.resources
+D:\VIA\DNP2\Assignments\Assignment5\Assignment5\obj\Debug\Assignment5.Properties.Resources.resources
+D:\VIA\DNP2\Assignments\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.GenerateResource.cache
+D:\VIA\DNP2\Assignments\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.CoreCompileInputs.cache
+D:\VIA\DNP2\Assignments\Assignment5\Assignment5\obj\Debug\Assignment5.exe
+D:\VIA\DNP2\Assignments\Assignment5\Assignment5\obj\Debug\Assignment5.pdb
+D:\VIA\DNP2\Assignments\Assignment5WPFCDDVD\Assignment5\bin\Debug\Assignment5.exe.config
+D:\VIA\DNP2\Assignments\Assignment5WPFCDDVD\Assignment5\bin\Debug\Assignment5.exe
+D:\VIA\DNP2\Assignments\Assignment5WPFCDDVD\Assignment5\bin\Debug\Assignment5.pdb
+D:\VIA\DNP2\Assignments\Assignment5WPFCDDVD\Assignment5\obj\Debug\Assignment5.csprojAssemblyReference.cache
+D:\VIA\DNP2\Assignments\Assignment5WPFCDDVD\Assignment5\obj\Debug\MainWindow.g.cs
+D:\VIA\DNP2\Assignments\Assignment5WPFCDDVD\Assignment5\obj\Debug\NewMediaItem.g.cs
+D:\VIA\DNP2\Assignments\Assignment5WPFCDDVD\Assignment5\obj\Debug\App.g.cs
+D:\VIA\DNP2\Assignments\Assignment5WPFCDDVD\Assignment5\obj\Debug\Assignment5_MarkupCompile.cache
+D:\VIA\DNP2\Assignments\Assignment5WPFCDDVD\Assignment5\obj\Debug\Assignment5_MarkupCompile.lref
+D:\VIA\DNP2\Assignments\Assignment5WPFCDDVD\Assignment5\obj\Debug\MainWindow.baml
+D:\VIA\DNP2\Assignments\Assignment5WPFCDDVD\Assignment5\obj\Debug\NewMediaItem.baml
+D:\VIA\DNP2\Assignments\Assignment5WPFCDDVD\Assignment5\obj\Debug\Assignment5.g.resources
+D:\VIA\DNP2\Assignments\Assignment5WPFCDDVD\Assignment5\obj\Debug\Assignment5.Properties.Resources.resources
+D:\VIA\DNP2\Assignments\Assignment5WPFCDDVD\Assignment5\obj\Debug\Assignment5.csproj.GenerateResource.cache
+D:\VIA\DNP2\Assignments\Assignment5WPFCDDVD\Assignment5\obj\Debug\Assignment5.csproj.CoreCompileInputs.cache
+D:\VIA\DNP2\Assignments\Assignment5WPFCDDVD\Assignment5\obj\Debug\Assignment5.exe
+D:\VIA\DNP2\Assignments\Assignment5WPFCDDVD\Assignment5\obj\Debug\Assignment5.pdb
